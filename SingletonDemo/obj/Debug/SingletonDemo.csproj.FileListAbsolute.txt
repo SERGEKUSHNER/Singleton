@@ -1,0 +1,7 @@
+C:\Users\seraph\source\repos\SingletonDemo\SingletonDemo\bin\Debug\SingletonDemo.exe.config
+C:\Users\seraph\source\repos\SingletonDemo\SingletonDemo\bin\Debug\SingletonDemo.exe
+C:\Users\seraph\source\repos\SingletonDemo\SingletonDemo\bin\Debug\SingletonDemo.pdb
+C:\Users\seraph\source\repos\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.csprojResolveAssemblyReference.cache
+C:\Users\seraph\source\repos\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.csproj.CoreCompileInputs.cache
+C:\Users\seraph\source\repos\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.exe
+C:\Users\seraph\source\repos\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.pdb
